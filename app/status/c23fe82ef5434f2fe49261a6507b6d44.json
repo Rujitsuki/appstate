@@ -1,1 +1,8 @@
-{ "schema": 1, "maintenance": null }
+{
+  "schema": 1,
+  "maintenance": {
+    "code": "host",
+    "start": "2030-01-01T10:00:00Z",
+    "end": "2030-01-01T10:45:00Z"
+  }
+}
